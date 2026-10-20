@@ -1,0 +1,5 @@
+CONFIDENTIAL — entirely fictional training data
+SYNTHETIC_PAYROLL_CANARY_4821
+Employee,Annual salary
+Example Employee A,123000
+Example Employee B,98000
